@@ -5,11 +5,11 @@ All IO operations for exclusion patterns can be avoided.  Also, the glob library
 To run the benchmark:
 
 ```bash
-# Run the current version of grunt
+# Run vanilla grunt
 $ npm install
 $ npm install grunt@1
 $ grunt
-# Now run grunt with performance improvements
+# Now run a version of grunt with the proposed improvements
 $ npm install
 $ grunt
 ```
